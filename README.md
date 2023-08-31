@@ -1,15 +1,21 @@
 # Calculadora
-Uma calculadora simples feita em Python utilizando o a biblioteca Tkinter.
+Aqui está um exemplo de uma calculadora simples feita em Python utilizando a biblioteca Tkinter.
 
 # Início
+Certifique-se de ter o Python instalado e a biblioteca Tkinter disponível. Se não tiver, você pode instalá-los com os seguintes comandos:
+
 ```bash
-apt-get install python git
-git clone
+sudo apt-get update
+sudo apt-get install python3 python3-tk
 ```
+Depois de ter o Python e o Tkinter instalados, você pode prosseguir clonando o repositório da calculadora e executando o programa.
+
 ## Executar
 ```bash
+git clone <URL_do_repositório>
 cd Calculadora
-python main.py
+python3 main.py
 ```
+Eu criei este projeto para me familiarizar mais com a linguagem Python e para ir além da calculadora simples no terminal. 
 
 Avalie ;)!
