@@ -12,7 +12,7 @@ Depois de ter o Python e o Tkinter instalados, você pode prosseguir clonando o 
 
 ## Executar
 ```bash
-git clone <URL_do_repositório>
+git clone https://github.com/ElBielson/Calculadora.git
 cd Calculadora
 python3 main.py
 ```
